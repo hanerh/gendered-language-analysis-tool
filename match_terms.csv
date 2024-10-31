@@ -1,0 +1,153 @@
+neutral_term,neutral_plural,male_term,female_term,male_plural,female_plural
+abbist,abbists,abbot,abbess,abbots,abbesses
+,,actor,actress,actors,actresses
+,,adulterer,adulteress,adulterers,adulteresses
+aviator,aviators,airman,airwoman,airmen,airwomen
+news anchor,news anchors,anchorman,anchorwoman,anchormen,anchorwomen
+assembly member,assembly members,assemblyman,assemblywoman,assemblymen,assemblywomen
+single person,single persons,bachelor,bachelorette,bachelors,bachelorettes
+ballet dancer,ballet dancers,ballerino,ballerina,ballerinos,ballerinas
+bartender,bartenders,barman,barmaid,barmen,barmaids
+,,baron,baroness,barons,baronesses
+,,beau,belle,beaus,belles
+hotel assistant,hotel assistants,bellboy,bellgirl,bellboys,bellgirls
+,,bloke,wench,blokes,wenches
+child,children,boy,girl,boys,girls
+"partner, significant other","partners, significant others",boyfriend,girlfriend,boyfriends,girlfriends
+childhood,childhoods,boyhood,girlhood,boyhoods,girlhoods
+,,brethren,sistren,,
+sibling,siblings,brother,sister,brothers,sisters
+siblinghood,siblinghoods,brotherhood,sisterhood,brotherhoods,sisterhoods
+,,busboy,busgirl,busboys,busgirls
+businessperson,businesspersons,businessman,businesswoman,businessmen,businesswomen
+cameraperson,camerapersons,cameraman,camerawoman,cameramen,camerawoman
+careerist,careerists,careerman,careerwoman,careermen,careerwomen
+chairperson,chairpersons,chairman,chairwoman,chairmen,chairwomen
+average person,,common man,,,
+"congressperson, legislator","congresspersons, legislators",congressman,congresswoman,congressmen,congresswomen
+construction worker,construction workers,constructionman,constructionwoman,constructionmen,constructionwomen
+"counsellor, council member","counsellors, council members",councilman,councilwoman,councilmen,councilwomen
+country dwellers,country dwellers,countryman,countrywoman,countrymen,countrywomen
+cowhand,cowhands,cowboy,cowgirl,cowboys,cowgirls
+crafter,crafters,craftsman,craftswoman,craftsmen,craftswomen
+,,czar,czarina,,
+,,dad,mom,dads,moms
+,,daddy,mommy,daddies,mommies
+,,deer,doe,,
+deliveryperson,"deliverypersons, deliverypeople",deliveryman,deliverywoman,deliverymen,deliverywomen
+,,divo,diva,,
+doorkeeper,doorkeepers,doorman,doormen,doorwoman,doorwomen
+drag artist,drag artists,drag king,drag kings,drag queen,drag queens
+,,dude,gal,dudes,gals
+noble,nobles,duke,duchess,dukes,duchesses
+empiricist,empiricists,emperor,empress,emperors,empresses
+,,enchanter,enchantress,enchanters,enchantresses
+farmhand,farmhands,farmboy,farmgirl,farmboys,farmgirls
+parent,parents,father,mother,fathers,mothers
+parented,,fathered,mothered,,
+parenthood,,fatherhood,motherhood,,
+betrothed,betrotheds,fiance,fiancee,fiances,fiancees
+firefighter,firefighters,fireman,firewoman,firemen,firewomen
+angler,anglers,fisherman,fisherwoman,fishermen,fisherwoman
+foreperson,forepersons,foreman,forewoman,foremen,forewomen
+,,fraternal,sororal,,
+,,fraternity,sorority,fraternities,sororities
+gentleperson,gentlepersons,gentleman,lady,gentlemen,ladies
+,,gents,ladies,,
+deity,deities,god,goddess,gods,godesses
+godparent,godparents,godfather,godmother,godfathers,godmothers
+grandparent,grandparents,grandfather,grandmother,grandfathers,grandmothers
+,,grandpa,grandma,,
+grandchild,grandchildren,grandson,granddaughter,grandsons,granddaughters
+,,groom,brides,grooms,brides
+,,guy,gal,guys,gals
+handyperson,"handypersons, handypeople",handyman,handywoman,handymen,handywomen
+headteacher,headteachers,headmaster,headmistress,headmasters,headmistresses
+,,heir,heiress,heirs,heiresses
+,,hero,heroine,heros,heroines
+equestrian,equestrian,horseman,horsewoman,horsemen,horsewomen
+,,host,hostess,hosts,hostesses
+homemaker,homemakers,househusband,housewife,househusbands,housewives
+spouse,spouses,husband,wife,husbands,wives
+monarch,monarchs,king,queen,kings,queens
+sovereignty,sovereignties,kingdom,queendom,kingdoms,queendoms
+,,lad,lass,lads,lasses
+property owner,property owners,landlord,landlady,landlords,landladies
+,,lion,lioness,lions,lionesses
+ruler,rulers,lord,lady,lords,ladies
+postal worker,postal workers,mailman,mailwoman,mailmen,mailwomen
+"person, human being","persons, people, human beings",male,female,males,females
+"person, human","people, persons, humans",man,woman,men,women
+"humankind, humanity",,mankind,womankind,,
+servant,servants,manservant,maidservant,manservants,maidservants
+,,marquis,marchioness,,
+,,masseur,masseuse,masseurs,masseuses
+,,master,mistress,masters,mistresses
+monastic,monastics,monk,nun,monks,nuns
+,,nephew,niece,nephews,nieces
+,,pa,ma,,
+,,papa,mama,papas,mamas
+,,patriarch,matriarch,,
+police officer,police officers,policeman,policewoman,policemen,policewomen
+clergy member,clergy members,priest,priestess,priests,priestesses
+,,prince,princess,princes,princesses
+repairperson,"repairpersons, repairpeople",repairman,repairwoman,repairmen,repairwomen
+salesperson,salespeople,salesman,saleeswoman,salesmen,saleswomen
+schoolchild,schoolchildren,schoolboy,schoolgirl,schoolboys,schoolgirls
+schoolchild,schoolchildren,schoolboy,schoolgirl,schoolboys,schoolgirls
+,,sir,madam,sirs,madams
+,,son,daughter,sons,daughters
+,,sorcerer,sorceress,sorcerers,sorceresses
+spokesperson,"spokespersons, spokespeople",spokesman,spokeswoman,spokesmen,spokeswomen
+athlete,athletes,sportsman,sportswoman,sportsmen,sportswomen
+horse,horses,stallion,mare,stallions,mares
+statesperson,"statespersons, statespeople",statesman,stateswoman,statesmen,stateswoman
+stepparent,stepparents,stepfather,stepmother,stepfathers,stepmothers
+stepchild,stepchildren,stepson,stepdaughter,stepsons,stepdaughters
+,,steward,stewardess,stewards,stewardesses
+strongperson,"strongpersons, strongpeople",strongman,strongwoman,strongmen,strongwomen
+,,stud,minx,studs,minxes
+,,suitor,suitress,suitors,suitresses
+swordfighter,swordfighters,swordsman,swordswoman,swordsmen,swordswomen
+,,tailor,seamstress,tailors,seamstresses
+,,uncle,aunt,uncles,aunts
+server,servers,waiter,waitress,waiters,waitresses
+weather forecaster,weather forecasters,weatherman,weatherwoman,weathermen,weatherwomen
+widowed person,widowed persons,widower,widow,widowers,widows
+magic user,magic users,wizard,witch,wizards,witches
+,,,chick,,chicks
+,,,godess,,
+,,,ma'am,,
+,,,maid,,maids
+,,,maiden,,
+,,,miss,,
+,,,spinster,,spinsters
+,"everyone, all people",,,all men,all women
+citizen,citizens,,,,
+comrade,comrades,,,,
+friend,friends,,,,
+pal,pals,,,,
+kid,kids,,,,
+person,persons,,,,
+adult,adults,,,,
+guardian,guardians,,,,
+caregiver,caregivers,,,,
+baby,babies,,,,
+enby,,,,,
+dependent,dependents,,,,
+minor,minors,,,,
+offspring,,,,,
+lover,lovers,,,,
+cousin,cousins,,,,
+darling,darlings,,,,
+paramour,paramours,,,,
+beloved,,,,,
+significant other,significant others,,,,
+newlywed,,,,,
+consort,consorts,,,,
+divine being,,,,,
+liege,,,,,
+companion,companions,,,,
+student,students,,,,
+visionary,visionaries,,,,
+neighbour,neighbours,,,,
